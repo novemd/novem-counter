@@ -1,0 +1,27 @@
+{
+  "name": "novem-counter",
+  "version": "0.1.0",
+  "authors": [
+    "Novem Designs <info@novemwebdesign.com>"
+  ],
+  "description": "Simple WordPress plugin that creates shortcode to animate numbers - counts up from 0 to the number.",
+  "keywords": [
+    "WordPress",
+    "Novem",
+    "Designs",
+    "counter",
+    "plugin",
+    "numbers"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  }
+}

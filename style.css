@@ -1,0 +1,40 @@
+
+.full {
+  width: 100%;
+}
+
+.col {
+  width: 25%;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+
+body{ font-family: "Open Sans", sans-serif; }
+.novem-counter-container {
+  background-color: #ffffff;
+  border: 5px solid #d4d4d4;
+  border-radius: 100%;
+  height: 200px;
+  margin: 20px auto;
+  text-align: center;
+  width: 200px; 
+}
+
+.novem-counter-container .novem-cc-value {
+  color: #f1862b;
+  display: inline-block;
+  font-size: 4.6875em;
+  font-weight: 700;
+  line-height: 90px;
+  padding-top: 30px;
+  width: 100%;  
+}
+
+.novem-counter-container .novem-cc-text {
+  font-size: 1.125em;
+  font-weight: 500;
+}
