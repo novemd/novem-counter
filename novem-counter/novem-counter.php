@@ -56,9 +56,7 @@ function novem_circle_counter_shortcode( $atts ){
     'text' => "Counter Text",
   ), $atts );
   
-//  return 'hello';
   return '<div class="novem-counter-container"><span class="novem-cc-value">' . $at['value'] . '</span><span class="novem-cc-text">' . $at['text'] . '</span></div>';
-
     
 }
 add_shortcode( 'novem-counter', novem_circle_counter_shortcode );
