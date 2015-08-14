@@ -25,4 +25,5 @@ This plugin uses shortcode in the form of `[novem-counter value="{num}" text="{t
 Change Log
 ----------
 **v 0.1.0** *(2015 August 13)*
+
 Initial commit. Basic, barebones version of the plugin. 
