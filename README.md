@@ -5,7 +5,7 @@ About
 -----
 Novem Counter is a *very* simple WordPress plugin that allows you to animate a count up from 0 to the number in the shortcode.
 
-This plugin was initially written by Novem Designs, LLC [link](http://www.novemwebdesign.com) for use in a client project. Because it was based on code found elsewhere, I offer it up so others may expand on it.
+This plugin was initially written by [Novem Designs, LLC](http://www.novemwebdesign.com) for use in a client project. Because it was based on code found elsewhere, I offer it up so others may expand on it.
 
 To Install
 -----------
