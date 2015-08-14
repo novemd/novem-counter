@@ -43,7 +43,7 @@ function novem_enqueue_script() {
 add_action( 'wp_enqueue_scripts', 'novem_enqueue_script' );
 
 // Build our shortcode in the style of
-//   [novem-counter value="{num}" text="{string}"]
+//   [novem-counter value="{num}" text="{text}"]
 //
 // This will output:
 //      <div class="novem-counter-container">

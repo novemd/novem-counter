@@ -18,10 +18,11 @@ To Use
 This plugin uses shortcode in the form of `[novem-counter value="{num}" text="{text}"]`
 
 `{num}` Should be an integer value
+
 `{text}` Should be the text describing the number value
 
 
 Change Log
 ----------
-**v 0.1.0** *2015 August 13*
+**v 0.1.0** *(2015 August 13)*
 Initial commit. Basic, barebones version of the plugin. 
